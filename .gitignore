@@ -1,0 +1,18 @@
+# Compiled binaries
+main
+p1
+p2
+p3
+*.o
+
+# Temporary test files
+test_*.txt
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# CodeQL artifacts
+_codeql_detected_source_root
